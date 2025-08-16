@@ -1,5 +1,1 @@
 Hi Tushar!!!
-I am mona
-How are you,this is my code
-int x=10;
-int y=20;
